@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxpoe
-- 👀 I’m interested in cloud-native development and new technologies
+- 👀 I’m interested in cloud development and new technologies
 - 🌱 I’m currently learning swiftui
 - 💞️ I’m looking to collaborate on cool new things
 - 📫 You can reach me on my website
