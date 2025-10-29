@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxpoe aka Max
 - 👀 I’m interested in cloud and new technologies
-- 🌱 I’m currently learning swiftui
+- 🌱 I’m currently learning cloud and ai
 - 💞️ I’m looking to collaborate on cool new things
 - 📫 You can reach me online
 <!---
