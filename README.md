@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxpoe aka Max
-- 👀 I’m interested in cloud and new technologies
-- 🌱 I’m currently learning cloud and ai
-- 💞️ I’m looking to collaborate on cool new things
+- 👀 I’m interested in cloud and tech
+- 🌱 I’m currently learning ai
 - 📫 You can reach me online
 <!---
 maxpoe/maxpoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
